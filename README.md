@@ -6,7 +6,7 @@
    <li><a href="https://github.com/PatriciaRainha/ArquiteturaDesign/blob/main/index.html">Código HTML</a></li>
    <li><a href="https://patriciarainha.github.io/ArquiteturaDesign/">Site</a></li>
 <h2>Tecnologias Usadas:</h2>
-* [VisualStudioCode](https://visualstudio.microsoft.com/pt-br/)
+- [VisualStudioCode](https://visualstudio.microsoft.com/pt-br/)
 
 
 
